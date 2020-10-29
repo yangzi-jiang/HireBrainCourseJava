@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HireBrainCourse</string>
+    <string name="button">Button</string>
+    <string name="hirebrain_course">HireBrain Course</string>
+    <string name="hirebrain_logo">HireBrain Logo</string>
+    <string name="your_name">Your Name</string>
+</resources>
